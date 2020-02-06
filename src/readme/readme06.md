@@ -50,7 +50,7 @@ public class Geometry {
 
 1. (자료 구조를 사용하는) 절차적인 코드는 기존 자료 구조를 변경하지 않으면서 새 함수를 추가하기 쉽다.
 
-> 위 코드에서 기존 자료구조는 Square, Rectangle, Circle 를 의미한다.
+> 위 코드에서 기존 자료구조는 Square, Rectangle, Circle를 의미한다.
 코드를 보면 도형을 변경하지 않고 Geometry에 새로운 함수를 추가하기 쉽다는 의미로 필자는 해석한다.
 
 2. 절차적인 코드는 새로운 자료 구조를 추가하기 어렵다. 그러려면 모든 함수를 고쳐야 한다.
@@ -58,6 +58,7 @@ public class Geometry {
 > 새로운 자료 구조 즉 도형이 추가되면 모든 함수(area) 내부의 코드를 수정해야 한다!
 
 
+**객체적인 도형**
 
 ```java
 public class Square implements Shape {
