@@ -4,8 +4,12 @@ class CommunicationController {
 
     private Transmitter transmitter;
 
-    CommunicationController(Transmitter transmitter) {
-        this.transmitter = transmitter;
+    CommunicationController() {
+        if(true) {
+            transmitter = new FakeTransmitter();
+        } else {
+            transmitter = new TransmitterAdapter(new TrasnmitterAPI());
+        }
     }
 
     String getAnalogSignal(int frequency, int stream) {
