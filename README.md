@@ -12,5 +12,8 @@ CleanCode 책을 보며 공부한 내용을 정리한 저장소 입니다.
 - [Chapter08 경계](/src/readme/readme08.md)
 - [Chapter09 단위 테스트](/src/readme/readme09.md)
 - [Chapter10 클래스](/src/readme/readme10.md)
+- [Chapter11 시스템](/src/readme/readme11.md)
+- [Chapter12 창발성](/src/readme/readme12.md)
+- [Chapter13 동시성](/src/readme/readme13.md)
 
 <img src="http://image.yes24.com/Goods/11681152/800x0" width="60%">
