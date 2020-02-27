@@ -5,3 +5,5 @@ conflict rebase test 1
 conflict rebase test 1
 
 HelloWorld
+
+rebase sourceTree Test1
