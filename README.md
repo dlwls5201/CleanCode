@@ -15,7 +15,9 @@ CleanCode 책을 보며 공부한 내용을 정리한 저장소 입니다.
 - [Chapter11 시스템](/src/readme/readme11.md)
 - [Chapter12 창발성](/src/readme/readme12.md)
 - [Chapter13 동시성](/src/readme/readme13.md)
-- [Chapter14 점진적인 개선](/src/readme/readme14.md)
+- [Chapter14 점진적인 개선]
+- [Chapter15 SerialDate 리팩터링]
+- [Chapter16 냄새와 휴리스틱](/src/readme/readme16.md)
 - [ChapterA 동시성 II](/src/readme/readmeA.md)
 
 <img src="http://image.yes24.com/Goods/11681152/800x0" width="60%">
